@@ -1,1 +1,1 @@
-A Yahoo-finance based website that shows long-term trends of ETFs I like to track.
+A Google App Engine-based site that shows long-term trends of ETFs I like to track. Uses Yahoo Finance API. Live site at http://marketdash.appspot.com.
